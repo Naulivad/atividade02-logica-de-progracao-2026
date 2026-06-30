@@ -15,9 +15,9 @@ if (dias <= 5){
 }
 
 if (idade > 60){
-    diaria * 0.80
+var diariax = diaria * 0.80
+    console.log("SUAS DIARIAS FORAM DE: R$ " + diariax)
 }else{
-    diaria
+var diariax = diaria
+    console.log("SUAS DIARIAS FORAM DE: R$ " + diariax)
 }
-
-console.log(diaria)

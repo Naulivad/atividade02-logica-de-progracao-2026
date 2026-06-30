@@ -1,3 +1,4 @@
 import leia from "readline-sync"
 
-var opcao = leia.keyInSelect(["C -> F"])
+var valor = leia.question("QUAL VALOR VOCE VAI CONVERTER? ")
+var opcao = leia.keyInSelect(["C -> F", "F -> C"])
