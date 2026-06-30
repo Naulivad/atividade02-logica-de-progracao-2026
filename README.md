@@ -90,7 +90,7 @@ Fahrenheit para Celsius = `C = (F - 32) * (5/9)`
 Celsius para Kelvin = `K = C + 273.15`
 Kelvin para Celsius = `C = K - 273.15`
 
-Celsius para Kelvin = `K = (F - 32) * (5/9) + 273.15`
+Fahrenheit para Kelvin = `K = (F - 32) * (5/9) + 273.15`
 Kelvin para Fahrenheit = `F = (K - 273.15) * 1.8 + 32`
 
 ---
